@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         id="org.idempiere.cashforecasting.form.OLAPViewForm"
+         name="OLAPViewForm"
+         point="org.adempiere.webui.Form">
+      <form
+            class="org.idempiere.cashforecasting.form.OLAPViewForm">
+      </form>
+   </extension>
+
+</plugin>
