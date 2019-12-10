@@ -29,4 +29,4 @@ Instructions
 
 Documentation
 -------------
-- User Guide {https://github.com/pshepetko/org.idempiere.cashforecasting/blob/master/downloads/CashForecasting_v1.0.1a.pdf}
+- User Guide https://github.com/pshepetko/org.idempiere.cashforecasting/blob/master/downloads/CashForecasting_v1.0.1a.pdf
