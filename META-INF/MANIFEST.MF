@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: cashforecasting
 Bundle-SymbolicName: org.idempiere.cashforecasting;singleton:=true
-Bundle-Version: 7.1.0.qualifier
+Bundle-Version: 8.2.0.qualifier
 Bundle-Activator: org.adempiere.plugin.utils.Incremental2PackActivator
 Export-Package:  org.idempiere.cashforecasting.base,
  org.idempiere.cashforecasting.component,
